@@ -1,7 +1,5 @@
 # Link Prediction on LastFM Music Dataset - PyTorch Geometric
 
-**Note:** The documentation part in the jupyter notebook is a work in progress and should be completed by the end of September 2024. 
-
 This repository demonstrates **link prediction** using **Graph Neural Networks (GNNs)** on the **LastFM** dataset with **PyTorch Geometric**. The task focuses on **predicting potential links between users and artists in a heterogeneous bipartite graph**, where:
 
 - **Nodes** represent users and artists.
